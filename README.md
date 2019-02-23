@@ -4,6 +4,8 @@
 
 This is the ubiquitous "Large Movie Review Dataset" from Stanford University in `json` format. A discussion of the dataset can be found [here](http://ai.stanford.edu/~amaas/data/sentiment/). The dataset is comprised of 50,000 movie reviews from IMDb.
 
+**This is a great starter dataset for Tensorflow.js and learning text classification/machine learning!**
+
 This version of the dataset differs slightly from the source data. Rather than being pre-split into test and training data, this dataset simply presents all records. The records are evenly split between positive and negative sentiment.
 
 ## Usage
