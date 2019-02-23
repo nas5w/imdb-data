@@ -1,0 +1,29 @@
+{
+  "name": "imdb-data",
+  "version": "1.0.0",
+  "description": "A JSON file of 50,000 IMDB movie reviews to be used in machine learning applications.",
+  "main": "reviews.json",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nas5w/imdb-data.git"
+  },
+  "keywords": [
+    "machine-learning",
+    "data",
+    "data-science",
+    "ml",
+    "imdb"
+  ],
+  "author": "Nick Scialli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nas5w/imdb-data/issues"
+  },
+  "homepage": "https://github.com/nas5w/imdb-data#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
